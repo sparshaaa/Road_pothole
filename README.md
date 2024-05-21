@@ -12,7 +12,7 @@
 </head>
 <body>
 
-<h1>Telecom Tower Detection using YOLOv8</h1>
+<h1> Road Pothole Detection using YOLOv8</h1>
 
 <h2>Table of Contents</h2>
 <ul>
